@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
   spec.name          = 'uuidv47'
   spec.version       = '0.1.0'
   spec.authors       = ['Yuhei Nakasaka']
-  spec.email         = ['yukie.nakasaka@gmail.com']
+  spec.email         = ['yuhei.nakasaka@gmail.com']
 
   spec.summary       = 'UUIDv7-in/UUIDv4-out (SipHash-masked timestamp)'
   spec.description   = 'Ruby implementation of UUIDv47 - store sortable UUIDv7 in your database while emitting a UUIDv4-looking facade at your API boundary'
